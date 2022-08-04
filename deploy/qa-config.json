@@ -4,7 +4,7 @@
     "ALBSubnets": "subnet-0f15f1e02acd9ee63, subnet-03072938d8cae1efe, subnet-02d550b4188e929cc",
     "AWSAccountId": "179392497636",
     "AWSDefaultRegion": "us-west-2",
-    "ECRImage": "179392497636.dkr.ecr.us-west-2.amazonaws.com/aep-gateway:3b25319",
+    "ECRImage": "179392497636.dkr.ecr.us-west-2.amazonaws.com/aep-gateway:7163a9a",
     "ECSClusterName": "dev-cluster",
     "ECSClusterVPC": "vpc-00dadae8f299b9ec2",
     "EnvironmentName": "qa",
