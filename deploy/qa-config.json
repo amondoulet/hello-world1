@@ -1,0 +1,22 @@
+{
+  "Parameters": {
+    "ALBScheme": "internal",
+    "ALBSubnets": "subnet-0f15f1e02acd9ee63, subnet-03072938d8cae1efe, subnet-02d550b4188e929cc",
+    "AWSAccountId": "179392497636",
+    "AWSDefaultRegion": "us-west-2",
+    "ECRImage": "179392497636.dkr.ecr.us-west-2.amazonaws.com/aep-gateway:3b25319",
+    "ECSClusterName": "dev-cluster",
+    "ECSClusterVPC": "vpc-00dadae8f299b9ec2",
+    "EnvironmentName": "qa",
+    "HealthCheck": "/healthcheck",
+    "ServiceCertificate": "arn:aws:acm:us-west-2:179392497636:certificate/720bb98b-9348-4650-b1f3-f281b3471631",
+    "ServiceDomain": "dev.aetion.com",
+    "ServiceHostedZoneId": "Z36I2OWZ613TK6",
+    "ServiceName": "aep-gateway",
+    "ServiceType": "client",
+    "ServicePort": "3000",
+    "VpcCidrBlock": "10.12.0.0/16",
+    "S3ClientBucket": "qa.aetion.com",
+    "EnvFileStoreFolder": "qar-dev"
+  }
+}
